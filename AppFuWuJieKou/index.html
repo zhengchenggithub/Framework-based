@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>短信验证码</title>
+</head>
+<body>
+获取验证码
+<form>
+    <input type = "text" name ="telephone" />
+    <input type = "button" value="获取验证码" />
+</form>
+注册
+<form method="post" action="register.php">
+    手机号：<input type="text" name="username" /></br>
+    验证码：<input type="text" name="VerifyCode" /></br>
+    密码：<input type="password" name="pwd" /></br>
+    <input type="submit" value="注册" />
+</form>
+</br>
+登录
+<form method="post" action="login.php">
+    手机号：<input type="text" name="username" /></br>
+    密码：<input type="password" name="pwd" /></br>
+    <input type="submit" value="登录" />
+</form>
+
+<a href="notice.php?type=0">获取个人公告</a><br />
+<a href="notice.php?type=1">获取社区公告</a><br />
+
+获取活动列表：<br />
+<a href="activities.php?type=list&userid='2'">获取活动列表</a><br />
+参与活动：<br />
+<a href="activities.php?type=participate&userid='2'&token=87d7529bf91f1ac6&activityid=1">参与活动</a><br />
+</body>
+</html>

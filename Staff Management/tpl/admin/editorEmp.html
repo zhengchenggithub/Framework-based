@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>编辑</title>
+</head>
+<body>
+<form method="post" action="admin.php?controller=emplist&method=doEdit">
+    <div>
+        <label>员工姓名</label>
+        <input type="text" name="Ename" value="{$emps.Ename}">
+    </div>
+    <div>
+        <label>员工年龄</label>
+        <input type="text" name="Eage" value="{$emps.Eage}">
+    </div>
+    <div>
+        <label>员工部门</label>
+        <select name="Edeptno">
+            <option value="$emps.Edeptno">{$emps.Dname}</option>
+            {foreach from=$depts key=k item=dept}
+            <option value="{$dept.Dno}">{$dept.Dname}</option>
+            {/foreach}
+        </select>
+    </div>
+    <div>
+        <input type="button" onclick="" value="返回">
+        <input type="submit" value="确认">
+    </div>
+</form>
+</body>
+</html>

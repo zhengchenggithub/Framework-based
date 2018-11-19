@@ -1,0 +1,66 @@
+<div>
+    <div class="row">
+        <div class="col-xs-12 col-sm-8 col-md-6 col-sm-offset-2 col-md-offset-3">
+            <form novalidate name="reg" role="form">
+                <h2>用户注册<small>注册成为本站用户，即可享受贴心服务</small></h2>
+                <hr class="colorgraph">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12">
+                        <div class="form-group">
+                            <input type="text" name="username" ng-model="username" required
+                                   class="form-control input-lg" placeholder="用户名" tabindex="1">
+                            <p ng-show="reg.username.$invalid && reg.username.$dirty" class="error-hint">*真实姓名要求必填.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-6 col-sm-6 col-md-6">
+                        <div class="form-group">
+                            <input type="password" name="password" ng-model="password" required minlength="3"
+                                   class="form-control input-lg" placeholder="密码" tabindex="5">
+                            <p ng-show="reg.password.$error.minlength && reg.password.$dirty" class="error-hint">*密码最短长度为3.</p>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6">
+                        <div class="form-group">
+                            <input type="password" name="repassword" ng-model="repassword" class="form-control input-lg" placeholder="确认密码" tabindex="6">
+                            <span ng-show="repassword!=password" class="error-hint">*两次密码输入不一致</span>
+                            <span class="error-hint" ng-show="reg.password.$valid">
+                                <span ng-show="repassword!=password">*两次密码输入不一致</span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <input type="email" name="email" ng-model="email" class="form-control input-lg" placeholder="邮箱" tabindex="4">
+                    <p ng-show="reg.email.$invalid && reg.email.$dirty" class="error-hint">*输入正确的邮箱.</p>
+                </div>
+                <form method="post" action="../Service/verifyCode.php">
+                <div class="row">
+                    <div class="col-xs-6 col-sm-6 col-md-6">
+                        <div class="form-group">
+                            <input type="text" name="verifyCode" required minlength="3"
+                                   class="form-control input-lg" placeholder="验证码" tabindex="5">
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6">
+                        <div class="form-group">
+                            <input type="submit" class="btn btn-success btn-block btn-lg" value="获取验证码">
+                        </div>
+                    </div>
+                </div>
+                </form>
+                <div class="form-group">
+                    <select class="form-control input-lg" name="area"
+                            ng-init="area=areas[0]" ng-model="area" ng-options="x.name for x in areas"></select>
+                </div>
+
+                <hr class="colorgraph">
+                <div class="row">
+                    <div class="col-xs-6 col-md-6"><a href="#login" class="btn btn-success btn-block btn-lg">直接登录</a></div>
+                    <div class="col-xs-6 col-md-6"><input ng-click="register()" ng-disabled="reg.$invalid" class="btn btn-primary btn-block btn-lg" value="注册"  tabindex="7"></div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,57 @@
+<div class="content">
+    <div class="container">
+        <div class="jumbotron">
+            <h1>欢迎使用商品管理系统</h1>
+        </div>
+        <table class="table table-bordered">
+            <thead>
+            <tr>
+                <td>编号</td>
+                <td>商品名称</td>
+                <td>商品价格</td>
+                <td>操作</td>
+            </tr>
+            </thead>
+            <tbody>
+            <tr ng-repeat="item in goods track by $index">
+                <td>{{item.id}}</td>
+                <td>{{item.goodsName}}</td>
+                <td>{{item.price}}</td>
+                <td>
+                    <button class="btn btn-primary" ng-click="edit($index)">编辑</button>
+                    <button class="btn btn-danger" ng-click="removeitem($index)">删除</button>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <button class="btn btn-success" ng-click="add()">添加</button>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <div id="add" class="modal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span
+                                class="sr-only">Close</span></button>
+                        <h4>添加商品</h4>
+                    </div>
+                    <div class="modal-body">
+                        <label role="name">商品名称</label>
+                        <input class="form-control" ng-model="item.goodsName" name="goodsName" type="text"
+                               placeholder="请输入商品名称">
+                        <label role="price">商品价格</label>
+                        <input class="form-control" ng-model="item.price" name="price" type="text"
+                               placeholder="请输入商品价格">
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-danger" data-dismiss="modal">关闭</button>
+                        <button class="btn btn-success" ng-click="save()">保存</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
