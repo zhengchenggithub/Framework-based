@@ -22,10 +22,16 @@ class loginController{
         }
         if ($user['Apassword'] == $password)
         {
-            $this->showMessage('登录成功','admin.php?controller=emplist&method=index');
+            $_SESSION['username'] = $username;
+            //$this->showMessage('登录成功','admin.php?controller=emplist&method=index');
         }else{
             $this->showMessage('密码错误，请从新输入!','admin.php?controller=login&method=index');
         }
+    }
+    public function logout(){ 
+        unset($_SESSION);
+        session_destroy();
+        $this->showMessage('退出成功！','admin.php?controller=login&method=index');
     }
     private function showMessage($info, $url){
         echo "<script>alert('$info');window.location.href='$url'</script>";
