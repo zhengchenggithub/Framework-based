@@ -67,7 +67,7 @@
             <!-- 左侧导航区域（可配合layui已有的垂直导航） -->
             <ul class="layui-nav layui-nav-tree"  lay-filter="test">
                 <li class="layui-nav-item layui-nav-itemed">
-                    <a class="" href="javascript:;">员工管理</a>
+                    <a class="" href="admin.php?controller=emplist&method=index">员工管理</a>
                     <dl class="layui-nav-child">
                         <dd><a href="index.php?controller=emplist&method=index">员工详情</a></dd>
                         <dd><a href="admin.php?controller=emplist&method=add">员工添加</a></dd>
@@ -122,6 +122,27 @@
 
     });
 </script>
+
+<script type="text/javascript">
+    layui.use(['jquery','layer'],function () {
+
+        var  $= layui.jquery;
+        var layer = layui.layer;
+
+        $(".layui-btn-danger").click(function () {
+            layer.confirm("确认要删除吗，删除后不能恢复", { title: "删除确认" }, function () {
+                $.post("admin.php?controller=emplist&method=del&Eno={$emp.Eno}",function () {
+                    layer.msg("删除成功！");
+                    setTimeout("location.reload();",1500);
+                });
+            });
+        });
+
+    });
+</script>
+
+
+
 
 </body>
 </html>
