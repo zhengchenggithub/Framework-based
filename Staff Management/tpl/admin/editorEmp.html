@@ -2,31 +2,133 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>编辑</title>
+    <title>Title</title>
+    <link rel="stylesheet" href="tpl/public/layui-v2.4.5/layui/css/layui.css">
+    <!--<link rel="stylesheet" href="tpl/public/img/css/main.css">-->
+    <style>
+        .layui-input-block{
+            margin-top: 50px;
+        }
+        .layui-form-item {
+            margin-left: 80px;
+            margin-top: 30px;
+            margin-right: 80px;
+        }
+        h1{
+            font-family: "微软雅黑";
+            font-size: 40px;
+            margin-top: 50px;
+            text-align: center;
+        }
+        .div1{
+            width: 500px;
+            height: 500px;
+            background-color: #009688;
+            position:absolute;
+            left:0;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            margin: auto;
+        }
+    </style>
 </head>
 <body>
-<form method="post" action="admin.php?controller=emplist&method=doEdit">
-    <div>
-        <label>员工姓名</label>
-        <input type="text" name="Ename" value="{$emps.Ename}">
+<div class="layui-layout layui-layout-admin">
+    <div class="layui-header">
+        <div class="layui-logo">员工管理系统 后台</div>
+        <!-- 头部区域（可配合layui已有的水平导航） -->
+        <ul class="layui-nav layui-layout-left">
+            <li class="layui-nav-item"><a href="">控制台</a></li>
+            <li class="layui-nav-item"><a href="">用户管理</a></li>
+        </ul>
+        <ul class="layui-nav layui-layout-right">
+            <li class="layui-nav-item">
+                <a href="javascript:;">
+                    <img src="http://t.cn/RCzsdCq" class="layui-nav-img">
+                    管理员
+                </a>
+                <dl class="layui-nav-child">
+                    <dd><a href="">基本资料</a></dd>
+                    <dd><a href="">安全设置</a></dd>
+                </dl>
+            </li>
+            <li class="layui-nav-item"><a href="admin.php?controller=login&method=logout">退了</a></li>
+        </ul>
     </div>
-    <div>
-        <label>员工年龄</label>
-        <input type="text" name="Eage" value="{$emps.Eage}">
+
+    <div class="layui-side layui-bg-black">
+        <div class="layui-side-scroll">
+            <!-- 左侧导航区域（可配合layui已有的垂直导航） -->
+            <ul class="layui-nav layui-nav-tree"  lay-filter="test">
+                <li class="layui-nav-item layui-nav-itemed">
+                    <a class="" href="admin.php?controller=emplist&method=index">员工管理</a>
+                    <dl class="layui-nav-child">
+                        <dd><a href="index.php?controller=emplist&method=index">员工详情</a></dd>
+                        <dd><a href="admin.php?controller=emplist&method=add">员工添加</a></dd>
+                    </dl>
+                </li>
+            </ul>
+        </div>
     </div>
-    <div>
-        <label>员工部门</label>
-        <select name="Edeptno">
-            <option value="$emps.Edeptno">{$emps.Dname}</option>
-            {foreach from=$depts key=k item=dept}
-            <option value="{$dept.Dno}">{$dept.Dname}</option>
-            {/foreach}
-        </select>
+
+    <div id="emplist" class="layui-body">
+        <div class="div1">
+        <!-- 内容主体区域 -->
+        <h1>修改员工</h1>
+        <form  class="layui-form layui-form-pane" method="post" action="admin.php?controller=emplist&method=doEdit">
+            <input type="hidden" name="Eno" value="{$emps.Eno}">
+            <div class="layui-form-item">
+                <label class="layui-form-label">员工姓名</label>
+                <div class="layui-input-block">
+                    <input type="text" name="Ename" required  lay-verify="required" placeholder="请输入用户名" autocomplete="off" class="layui-input" value="{$emps.Ename}">
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">员工年龄</label>
+                <div class="layui-input-block">
+                    <input type="text" name="Eage" required  lay-verify="required" placeholder="请输入用户年龄" autocomplete="off" class="layui-input" value="{$emps.Eage}">
+                </div>
+                <div>
+
+                    <label class="layui-form-label">员工部门</label>
+                    <div class="layui-input-block">
+                        <select name="Edeptno" lay-verify="required">
+                            {foreach from=$depts key=k item=dept}
+                            {if $emps.Edeptno == $dept.Dno}
+                            <option selected value="{$dept.Dno}">{$dept.Dname}</option>
+                            {else}
+                            <option value="{$dept.Dno}">{$dept.Dname}</option>
+                            {/if}
+                            {/foreach}
+                        </select>
+                    </div>
+                    <div class="layui-form-item">
+                        <a href="admin.php?controller=emplist&method=index" class="layui-btn  layui-btn-lg layui-btn-radius layui-btn-warm">返回</a>
+                        <input type="submit" class="layui-btn  layui-btn-lg layui-btn-radius layui-btn-normal" value="确认">
+                    </div>
+        </form>
+        </div>
     </div>
-    <div>
-        <input type="button" onclick="" value="返回">
-        <input type="submit" value="确认">
+
+    <div class="layui-footer">
+        <!-- 底部固定区域 -->
+        © layui.com - 底部固定区域
     </div>
-</form>
+</div>
+<script src="tpl/public/layui-v2.4.5/layui/layui.js"></script>
+<script>
+    //Demo
+    layui.use('form', function(){
+        var form = layui.form;
+
+        //监听提交
+        form.on('submit(formDemo)', function(data){
+            layer.msg(JSON.stringify(data.field));
+            return false;
+        });
+    });
+</script>
+
 </body>
 </html>
