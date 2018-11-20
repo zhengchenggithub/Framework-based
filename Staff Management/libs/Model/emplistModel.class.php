@@ -19,12 +19,16 @@ class emplistModel
     {
         return DB::exec("insert into tb_emp (Ename,Eage,Edeptno) values ('{$name}',{$age},'{$no}')");
     }
-    public function getEmp($Eno)
+    public function getEmp($no)
     {
-        return DB::findOne("select * from tb_emp e LEFT JOIN  tb_dept d ON e.Edeptno = d.Dno where Eno='{$Eno}'");
+        return DB::findOne("select * from tb_emp where Eno='{$no}'");
     }
-    public function editEmp($name,$age,$no)
+    public function editEmp($no,$Ename,$Eage,$Edeptno)
     {
-        return DB::exec("update tb_emp set Ename = '{$name}',Eage = {$age},Edeptno='{$no}' where Eno = {$Eno}");
+        return DB::exec("update tb_emp set Ename = '{$Ename}',Eage = {$Eage},Edeptno='{$Edeptno}' where Eno = {$no}");
+    }
+    public function delEmp($no)
+    {
+        return DB::exec("DELETE FROM tb_emp WHERE Eno='{$no}'");
     }
 }
