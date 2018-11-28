@@ -1,1 +1,0 @@
-a:6:{i:0;s:3:"Eno";i:1;s:5:"Ename";i:2;s:4:"Eage";i:3;s:7:"Edeptno";s:3:"_pk";s:3:"Eno";s:5:"_type";a:4:{s:3:"Eno";s:7:"int(10)";s:5:"Ename";s:12:"varchar(255)";s:4:"Eage";s:7:"int(10)";s:7:"Edeptno";s:12:"varchar(255)";}}
