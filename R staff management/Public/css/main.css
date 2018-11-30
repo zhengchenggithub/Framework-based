@@ -1,0 +1,39 @@
+#emplist {
+    margin: 10px;
+}
+#emplist table{
+    border-collapse: collapse;
+    width:100%;
+    border:1px solid #c6c6c6 !important;
+    margin-bottom:20px;
+}
+#emplist table th{
+    border-collapse: collapse;
+    border-right:1px solid #c6c6c6 !important;
+    border-bottom:1px solid #c6c6c6 !important;
+    /*background-color:#ddeeff !important;*/
+    background-color:#f2f2f2 !important;
+    padding:5px 9px;
+    font-size:14px;
+    font-weight:normal;
+    text-align:center;
+}
+#emplist table td{
+    border-collapse: collapse;
+    border-right:1px solid #c6c6c6 !important;
+    border-bottom:1px solid #c6c6c6 !important;
+    padding:5px 9px;
+    font-size:12px;
+    font-weight:normal;
+    text-align:center;
+    word-break: break-all;
+}
+.emp-content {
+    margin: 10px;
+}
+#button_group {
+    margin-left: 30px;
+}
+#button_group input:last-child{
+    margin-left: 135px;
+}

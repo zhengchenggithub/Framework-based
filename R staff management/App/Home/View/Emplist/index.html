@@ -1,0 +1,86 @@
+<include file="Public:header" />
+
+    <div id="emplist" class="layui-body">
+        <!-- 内容主体区域 -->
+        <div class="layui-btn-group demoTable">
+            <a href="{:U('emplist/add')}" class="layui-btn">添加员工</a>
+        </div>
+        <table style="margin-top: 10px">
+            <thead>
+            <tr>
+                <th>编号</th>
+                <th>姓名</th>
+                <th>年龄</th>
+                <th>部门</th>
+                <th colspan="2">操作</th>
+            </tr>
+            </thead>
+            <tbody>
+            <!--<volist name="emps" id="emp">-->
+            <!--<tr>-->
+            <!--<td>{$emp.eno}</td>-->
+            <!--<td>{$emp.ename}</td>-->
+            <!--<td>{$emp.eage}</td>-->
+            <!--<td>{$emp.dname}</td>-->
+            <!--<td>-->
+            <!--<a href="admin.php?controller=emplist&method=edit&Eno={$emp.Eno}" class="layui-btn layui-btn-normal" lay-event="edit">编辑</a>-->
+            <!--<a class="layui-btn layui-btn-danger" lay-event="del">删除</a>-->
+            <!--</td>-->
+            <!--</tr>-->
+            <!--</volist>-->
+            <foreach name="emps" item="emp">
+                <tr>
+                    <td>{$emp.eno}</td>
+                    <td>{$emp.ename}</td>
+                    <td>{$emp.eage}</td>
+                    <td>{$emp.dname}</td>
+                    <td>
+                        <a href="editor?no='{$emp.eno}'" class="layui-btn layui-btn-normal" lay-event="edit">编辑</a>
+                        <a class="layui-btn layui-btn-danger" lay-event="del" onclick="showDel('{$emp.eno}','{$emp.ename}')">删除</a>
+                    </td>
+                </tr>
+            </foreach>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="layui-footer">
+        <!-- 底部固定区域 -->
+        © layui.com - 底部固定区域
+    </div>
+</div>
+<script src="__PUBLIC__/layui/layui.js"></script>
+<script>
+    //JavaScript代码区域
+    layui.use(['element', 'layer'], function(){
+        var element = layui.element;
+
+    });
+
+    function showDel(eno,ename) {
+        var layer = layui.layer;
+
+        //询问框
+
+        // layer.confirm('您是如何看待前端开发？', {
+        //     btn: ['重要','奇葩'] //按钮
+        // }, function(){
+        //     layer.msg('的确很重要');
+        // }, function(){
+        //     layer.msg('也可以这样', {
+        //         time: 20000, //20s后自动关闭
+        //         btn: ['明白了', '知道了']
+        //     });
+        // });
+
+        layer.confirm("确认删除"+ename+"?", {
+            btn: ['确认','取消'] //按钮
+        }, function(){
+            location.href = 'delete?no='+eno;
+            // layer.msg("删除成功！");
+        });
+    }
+</script>
+
+</body>
+</html>

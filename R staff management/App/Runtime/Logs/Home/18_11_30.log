@@ -1,0 +1,78 @@
+[ 2018-11-30T08:31:02+08:00 ] ::1 /phpText/R%20staff%20management/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.028491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.034391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.034493s ]
+ERR: 无法加载控制器:Index
+
+[ 2018-11-30T08:31:13+08:00 ] ::1 /phpText/R%20staff%20management/index.php/Home/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002563s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.017344s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.017423s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.219426s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.219478s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.060410s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.060448s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.039445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.039540s ]
+
+[ 2018-11-30T08:31:18+08:00 ] ::1 /phpText/R%20staff%20management/index.php/Home/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+SQL: SELECT * FROM `tb_admin` WHERE ( Aname = 'zc' ) LIMIT 1   [ RunTime:0.1063s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082330s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082439s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000943s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-11-30T08:31:20+08:00 ] ::1 /phpText/R%20staff%20management/index.php/Home/emplist/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_emp.Edeptno = tb_dept.Dno   [ RunTime:0.1048s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\R staff management\App\Runtime\Cache\Home\ab148b090b13a84758b171ade6e2a30a.php 第 80 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\R staff management\App\Runtime\Cache\Home\ab148b090b13a84758b171ade6e2a30a.php 第 80 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\R staff management\App\Runtime\Cache\Home\ab148b090b13a84758b171ade6e2a30a.php 第 80 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\R staff management\App\Runtime\Cache\Home\ab148b090b13a84758b171ade6e2a30a.php 第 80 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\R staff management\App\Runtime\Cache\Home\ab148b090b13a84758b171ade6e2a30a.php 第 80 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\R staff management\App\Runtime\Cache\Home\ab148b090b13a84758b171ade6e2a30a.php 第 80 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\R staff management\App\Runtime\Cache\Home\ab148b090b13a84758b171ade6e2a30a.php 第 80 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.173262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.173360s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001189s ]
+

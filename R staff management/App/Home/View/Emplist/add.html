@@ -1,0 +1,47 @@
+<include file="Public:header" />
+
+    <div class="layui-body emp-content">
+        <!-- 内容主体区域 -->
+        <form class="layui-form" method="post" action="doadd">
+            <div class="layui-form-item">
+                <label class="layui-form-label">员工姓名</label>
+                <input class="layui-input layui-input-inline" type="text" name="Ename">
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">年龄</label>
+                <input class="layui-input layui-input-inline" type="text" name="Eage">
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">部门</label>
+                <div class="layui-input-inline">
+                    <select name="Edeptno">
+                        <volist name="depts" id="dept">
+                        <option value="{$dept.dno}">{$dept.dname}</option>
+                        </volist>
+                    </select>
+                </div>
+            </div>
+            <div id="button_group" class="layui-form-item">
+                <input class="layui-btn layui-btn-primary" type="button" value="返回" onclick="window.history.back()">
+                <input class="layui-btn" type="submit" value="提交">
+            </div>
+
+        </form>
+    </div>
+
+    <div class="layui-footer">
+        <!-- 底部固定区域 -->
+        © layui.com - 底部固定区域
+    </div>
+</div>
+<script src="__PUBLIC__/layui/layui.js"></script>
+<script>
+    //JavaScript代码区域
+    layui.use(['element', 'form'], function () {
+        var element = layui.element;
+
+    });
+</script>
+
+</body>
+</html>
