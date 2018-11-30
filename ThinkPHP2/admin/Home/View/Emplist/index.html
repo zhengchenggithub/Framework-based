@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="emplist" class="layui-body">
+    <!-- 内容主体区域 -->
+    <div class="layui-btn-group demoTable">
+        <a href="admin.php?controller=emplist&method=add" class="layui-btn">添加员工</a>
+    </div>
+    <table style="margin-top: 10px">
+        <thead>
+        <tr>
+            <th>编号</th>
+            <th>姓名</th>
+            <th>年龄</th>
+            <th>部门</th>
+            <th colspan="2">操作</th>
+        </tr>
+        </thead>
+        <tbody>
+        <!--<volist name="emps" id="emp">-->
+            <!--<tr>-->
+                <!--<td>{$emp.eno}</td>-->
+                <!--<td>{$emp.ename}</td>-->
+                <!--<td>{$emp.eage}</td>-->
+                <!--<td>{$emp.dname}</td>-->
+                <!--<td>-->
+                    <!--<a href="admin.php?controller=emplist&method=edit&Eno={$emp.Eno}" class="layui-btn layui-btn-normal" lay-event="edit">编辑</a>-->
+                    <!--<a class="layui-btn layui-btn-danger" lay-event="del">删除</a>-->
+                <!--</td>-->
+            <!--</tr>-->
+        <!--</volist>-->
+        <foreach name="emps" item="emp">
+            <tr>
+                <td>{$emp.eno}</td>
+                <td>{$emp.ename}</td>
+                <td>{$emp.eage}</td>
+                <td>{$emp.dname}</td>
+                <td>
+                    <a href="admin.php?controller=emplist&method=edit&Eno={$emp.Eno}" class="layui-btn layui-btn-normal" lay-event="edit">编辑</a>
+                    <a class="layui-btn layui-btn-danger" lay-event="del">删除</a>
+                </td>
+            </tr>
+        </foreach>
+        </tbody>
+    </table>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,83 @@
+[ 2018-11-23T07:44:42+08:00 ] ::1 /phpText/ThinkPHP2/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.027636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.027704s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Home\Controller\IndexController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014188s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014282s ]
+
+[ 2018-11-23T07:44:55+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/user/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000823s ]
+
+[ 2018-11-23T07:45:02+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/user/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000806s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000896s ]
+
+[ 2018-11-23T07:45:27+08:00 ] ::1 /phpText/ThinkPHP2/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Home\Controller\IndexController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2018-11-23T07:45:41+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_emp.Edeptno = tb_dept.Dno   [ RunTime:0.1588s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.196676s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.196718s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.033955s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.034003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000680s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000747s ]
+

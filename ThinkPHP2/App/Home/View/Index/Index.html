@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{//$zc.name}
+{//$zc['age']*2}
+{//$zc.sex}
+{//$zc.zc|default='boy'}
+{//$zc.name|md5|substr=0,5} <!-- 对参数进行md5加密以及字符串的截取-->
+{//$now|date='Y-m-d H:i:s',###}<br />
+{//$Think.now}
+{//$Think.version}
+{//$Think.server.http_host}
+<tr>
+<volist name="zc" id="a" empty="没有数据">
+    <td>{$a.name}</td>
+    <td>{$a.age}</td>
+    <td>{$a.sex}</td>
+</volist>
+</tr>
+<br />
+<tr>
+    <foreach name="zc" item="a">
+        <td>{$a.name}</td>
+        <td>{$a.age}</td>
+        <td>{$a.sex}</td>
+    </foreach>
+</tr>
+</body>
+</html>

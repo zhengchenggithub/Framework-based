@@ -1,0 +1,1905 @@
+[ 2018-11-22T08:53:49+08:00 ] ::1 /phpText/ThinkPHP2/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.049645s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.021400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015827s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015915s ]
+
+[ 2018-11-22T08:54:47+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002854s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000820s ]
+
+[ 2018-11-22T08:54:59+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001404s ]
+
+[ 2018-11-22T08:57:52+08:00 ] ::1 /phpText/ThinkPHP2/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004419s ]
+
+[ 2018-11-22T14:51:32+08:00 ] ::1 /phpText/ThinkPHP2/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002637s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001380s ]
+
+[ 2018-11-22T14:51:54+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000958s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001014s ]
+
+[ 2018-11-22T14:52:01+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001177s ]
+
+[ 2018-11-22T14:52:03+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000459s ]
+
+[ 2018-11-22T15:03:02+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001706s ]
+
+[ 2018-11-22T15:05:42+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001408s ]
+
+[ 2018-11-22T15:05:43+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+
+[ 2018-11-22T15:05:43+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+
+[ 2018-11-22T15:07:37+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+
+[ 2018-11-22T15:07:38+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+
+[ 2018-11-22T15:07:38+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+
+[ 2018-11-22T15:07:38+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001113s ]
+
+[ 2018-11-22T15:07:39+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+
+[ 2018-11-22T15:08:43+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+
+[ 2018-11-22T15:08:44+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+
+[ 2018-11-22T15:08:44+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+
+[ 2018-11-22T15:08:44+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+
+[ 2018-11-22T15:08:44+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+
+[ 2018-11-22T15:08:45+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+
+[ 2018-11-22T15:08:45+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+
+[ 2018-11-22T15:09:56+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001184s ]
+
+[ 2018-11-22T15:11:07+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+SQL: SHOW COLUMNS FROM `tb_emp` [ RunTime:0.0528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000752s ]
+
+[ 2018-11-22T15:12:03+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `tb_emp` [ RunTime:0.0156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001684s ]
+
+[ 2018-11-22T15:12:04+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001902s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000890s ]
+
+[ 2018-11-22T15:12:04+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000816s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000908s ]
+
+[ 2018-11-22T15:12:04+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000760s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000894s ]
+
+[ 2018-11-22T15:12:04+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000770s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000863s ]
+
+[ 2018-11-22T15:12:12+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-11-22T15:12:16+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001692s ]
+
+[ 2018-11-22T15:18:02+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000815s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.013572s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.013628s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.147207s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.147353s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002085s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000934s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000984s ]
+
+[ 2018-11-22T15:20:07+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000783s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025061s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025116s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000882s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000917s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001008s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001053s ]
+
+[ 2018-11-22T15:20:07+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010255s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010302s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2018-11-22T15:20:21+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001080s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008551s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008604s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000783s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000667s ]
+
+[ 2018-11-22T15:49:21+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000743s ]
+
+[ 2018-11-22T15:49:21+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000813s ]
+
+[ 2018-11-22T15:49:21+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000464s ]
+
+[ 2018-11-22T15:49:22+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000574s ]
+
+[ 2018-11-22T15:49:22+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000599s ]
+
+[ 2018-11-22T15:49:22+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2018-11-22T15:49:22+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000552s ]
+
+[ 2018-11-22T15:50:59+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0727s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000827s ]
+
+[ 2018-11-22T15:54:02+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001595s ]
+SQL: SELECT * FROM `tb_emp` WHERE ( Eno=1002 )  [ RunTime:0.0485s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2018-11-22T15:59:17+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+SQL: SELECT * FROM `tb_emp` WHERE ( Eno=1002 )  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000783s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2018-11-22T16:05:34+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015434s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015484s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000667s ]
+
+[ 2018-11-22T16:05:35+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008991s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000459s ]
+
+[ 2018-11-22T16:05:35+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017664s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017718s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000569s ]
+
+[ 2018-11-22T16:05:35+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008377s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008423s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2018-11-22T16:05:35+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018329s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018430s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2018-11-22T16:05:36+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008917s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2018-11-22T16:05:36+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011783s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011858s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000857s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000905s ]
+
+[ 2018-11-22T16:05:36+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000554s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007590s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007635s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2018-11-22T16:05:36+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012220s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012359s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000784s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001181s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001234s ]
+
+[ 2018-11-22T16:05:59+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001661s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012186s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000861s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000643s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000684s ]
+
+[ 2018-11-22T16:06:00+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014803s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014840s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000693s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000463s ]
+
+[ 2018-11-22T16:06:00+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005104s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005167s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001165s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001312s ]
+
+[ 2018-11-22T16:06:13+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013985s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014040s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000844s ]
+
+[ 2018-11-22T16:06:14+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007610s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000547s ]
+
+[ 2018-11-22T16:06:43+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011673s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011717s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2018-11-22T16:06:43+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005178s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005234s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2018-11-22T16:06:43+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004868s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004906s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2018-11-22T16:06:43+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008815s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000737s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000459s ]
+
+[ 2018-11-22T16:06:44+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005851s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005910s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2018-11-22T16:07:03+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017522s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017566s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2018-11-22T16:07:03+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008022s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008062s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000543s ]
+
+[ 2018-11-22T16:07:03+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010584s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010688s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000467s ]
+
+[ 2018-11-22T16:07:04+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008182s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008234s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2018-11-22T16:07:04+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009351s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009401s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2018-11-22T16:27:41+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 25 行.
+NOTIC: [8] Undefined index: Ename D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 26 行.
+NOTIC: [8] Undefined index: Eage D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 27 行.
+NOTIC: [8] Undefined index: Dname D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 28 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 25 行.
+NOTIC: [8] Undefined index: Ename D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 26 行.
+NOTIC: [8] Undefined index: Eage D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 27 行.
+NOTIC: [8] Undefined index: Dname D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 28 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 25 行.
+NOTIC: [8] Undefined index: Ename D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 26 行.
+NOTIC: [8] Undefined index: Eage D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 27 行.
+NOTIC: [8] Undefined index: Dname D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 28 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 25 行.
+NOTIC: [8] Undefined index: Ename D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 26 行.
+NOTIC: [8] Undefined index: Eage D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 27 行.
+NOTIC: [8] Undefined index: Dname D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 28 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 25 行.
+NOTIC: [8] Undefined index: Ename D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 26 行.
+NOTIC: [8] Undefined index: Eage D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 27 行.
+NOTIC: [8] Undefined index: Dname D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 28 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 25 行.
+NOTIC: [8] Undefined index: Ename D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 26 行.
+NOTIC: [8] Undefined index: Eage D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 27 行.
+NOTIC: [8] Undefined index: Dname D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 28 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 25 行.
+NOTIC: [8] Undefined index: Ename D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 26 行.
+NOTIC: [8] Undefined index: Eage D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 27 行.
+NOTIC: [8] Undefined index: Dname D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 28 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 25 行.
+NOTIC: [8] Undefined index: Ename D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 26 行.
+NOTIC: [8] Undefined index: Eage D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 27 行.
+NOTIC: [8] Undefined index: Dname D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 28 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.087545s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.087587s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000828s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000813s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000873s ]
+
+[ 2018-11-22T16:28:26+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001617s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+SQL: SELECT * FROM `tb_emp`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined index: dname D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 28 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: dname D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 28 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: dname D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 28 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: dname D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 28 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: dname D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 28 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: dname D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 28 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: dname D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 28 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: dname D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 28 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021194s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021233s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000651s ]
+
+[ 2018-11-22T16:28:29+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/admin.php?controller=emplist&method=edit&Eno=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+ERR: 非法操作:admin.php
+
+[ 2018-11-22T16:37:12+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001133s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002620s ]
+ERR: 1146:Table 'test.__emp__' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `tb_emp` LEFT JOIN __emp__ ON __dept__.Dno = __emp__.Edeptno  
+ERR: 1146:Table 'test.__emp__' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `tb_emp` LEFT JOIN __emp__ ON __dept__.Dno = __emp__.Edeptno  
+
+[ 2018-11-22T16:41:12+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+SQL: select * from tb_emp e LEFT JOIN  tb_dept d ON e.Edeptno = d.Dno ORDER BY e.Eno [ RunTime:0.0130s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023515s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023555s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000859s ]
+
+[ 2018-11-22T16:44:26+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000984s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_dept.Dno = tb_emp.Edeptno   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009085s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001411s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001479s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000816s ]
+
+[ 2018-11-22T16:44:27+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002993s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_dept.Dno = tb_emp.Edeptno   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006696s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006739s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000765s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2018-11-22T16:44:27+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_dept.Dno = tb_emp.Edeptno   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005938s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005971s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2018-11-22T16:44:28+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_dept.Dno = tb_emp.Edeptno   [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007539s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000865s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2018-11-22T16:44:28+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001790s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_dept.Dno = tb_emp.Edeptno   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006162s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006196s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000431s ]
+
+[ 2018-11-22T16:45:13+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_emp.Edeptno = tb_dept.Dno   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011465s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011507s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2018-11-22T16:45:14+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_emp.Edeptno = tb_dept.Dno   [ RunTime:0.0022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009018s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009104s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2018-11-22T16:45:14+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_emp.Edeptno = tb_dept.Dno   [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012097s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012183s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000696s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000802s ]
+
+[ 2018-11-22T16:45:14+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_emp.Edeptno = tb_dept.Dno   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011929s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2018-11-22T16:49:25+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_emp.Edeptno = tb_dept.Dno   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022477s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022540s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000627s ]
+
+[ 2018-11-22T16:49:26+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_emp.Edeptno = tb_dept.Dno   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007308s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007342s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000426s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2018-11-22T16:49:26+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001234s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_emp.Edeptno = tb_dept.Dno   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007058s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007093s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000947s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001038s ]
+
+[ 2018-11-22T16:49:26+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000783s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_emp.Edeptno = tb_dept.Dno   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006451s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006484s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000497s ]
+
+[ 2018-11-22T16:50:17+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_emp.Edeptno = tb_dept.Dno   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037211s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037264s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000967s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001175s ]
+
+[ 2018-11-22T16:50:19+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_emp.Edeptno = tb_dept.Dno   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015086s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015170s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000617s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2018-11-22T16:50:26+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/emplist/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SELECT * FROM `tb_emp` LEFT JOIN tb_dept ON tb_emp.Edeptno = tb_dept.Dno   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 31 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 37 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 37 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 37 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 37 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 37 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 37 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 37 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 37 行.
+NOTIC: [8] Undefined index: Eno D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Runtime\Cache\Home\8c2386f0d006abc8c79cf58bdcc04cae.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026040s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026094s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000865s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000862s ]
+
+[ 2018-11-22T16:57:57+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001174s ]
+
+[ 2018-11-22T16:58:40+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001649s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Home\Controller\IndexController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000963s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001029s ]
+
+[ 2018-11-22T16:58:40+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Home\Controller\IndexController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000857s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000958s ]
+
+[ 2018-11-22T16:58:41+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Home\Controller\IndexController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+
+[ 2018-11-22T16:58:41+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Home\Controller\IndexController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2018-11-22T16:58:41+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001782s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Home\Controller\IndexController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001550s ]
+
+[ 2018-11-22T16:59:54+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Home\Controller\IndexController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2018-11-22T17:12:54+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Home\Controller\IndexController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000741s ]
+
+[ 2018-11-22T17:13:01+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/user/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001192s ]
+
+[ 2018-11-22T17:23:05+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/user/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2018-11-22T17:23:07+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/user/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2018-11-22T17:23:07+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/user/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000536s ]
+
+[ 2018-11-22T17:23:08+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/user/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000473s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000543s ]
+
+[ 2018-11-22T17:23:08+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/user/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000509s ]
+
+[ 2018-11-22T17:24:18+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/user/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000562s ]
+
+[ 2018-11-22T17:24:20+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/user/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000464s ]
+
+[ 2018-11-22T17:24:20+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/user/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000524s ]
+
+[ 2018-11-22T17:24:20+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/user/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000601s ]
+
+[ 2018-11-22T17:24:20+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/user/id/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2018-11-22T17:24:21+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Home\Controller\IndexController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2018-11-22T17:24:31+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Home\Controller\IndexController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000567s ]
+
+[ 2018-11-22T19:45:59+08:00 ] ::1 /phpText/ThinkPHP2/admin.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001413s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\XAMPP\htdocs\phpText\ThinkPHP2\admin\Home\Controller\IndexController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001180s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001252s ]
+
