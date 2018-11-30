@@ -1,0 +1,17 @@
+[ 2018-11-26T21:00:45+08:00 ] ::1 /phpText/ThinkPHP1/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.035872s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.039548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.039649s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012914s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012991s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.038917s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.039013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.026163s ]
+INFO: [ app_end ] --END-- [ RunTime:0.026242s ]
+
